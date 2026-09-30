@@ -14,9 +14,7 @@
 A production-style, educational full-stack RAG project that demonstrates how to turn PDF documents into searchable knowledge and chat with them using modern AI models. It is designed for learners and builders who want to understand document chunking, embeddings, vector search, SSE streaming responses, multi-provider model fallback, and practical deployment (Vercel + Coolify VPS) end to end.
 
 - **Frontend Live Demo:** [https://pdf-chat-scrapper.vercel.app/](https://pdf-chat-scrapper.vercel.app/)
-- **Backend Live Demo:** [https://rag-pdf-backend.arnobmahmud.com/](https://rag-pdf-backend.arnobmahmud.com/)
-- **Security:** Private vulnerability reports — see [SECURITY.md](SECURITY.md) (`contact@arnobmahmud.com`)
-- **Author:** [Arnob Mahmud](https://www.arnobmahmud.com), [LinkedIn](https://www.linkedin.com/in/arnob-mahmud-05839655/), [GitHub](https://github.com/arnobt78), contact: [contact@arnobmahmud.com](mailto:contact@arnobmahmud.com)
+
 
 ![Image 1](https://github.com/user-attachments/assets/d0c1ed31-8c98-4191-b388-8c0d0f55ebda)
 ![Image 2](https://github.com/user-attachments/assets/3557b9f2-9e33-40dc-89ff-b616db68bd84)

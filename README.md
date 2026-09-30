@@ -601,33 +601,4 @@ Included test: `backend/tests/test_chat_stream_sse.py` (SSE token + done flow wi
 
 ---
 
-## Security
 
-- Report vulnerabilities privately: **<contact@arnobmahmud.com>** (details in [SECURITY.md](SECURITY.md)).
-- Do not publish API keys, Coolify secrets, or real DSNs in issues/PRs.
-- This demo uses **anonymous** sessions — not enterprise auth. Treat public demos accordingly.
-
----
-
-## Contributing
-
-1. Fork the repository.
-2. Create a focused feature branch.
-3. Run `npm run check` (and backend checks) before opening a PR.
-4. Describe scope, risks, and how you tested.
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Happy Coding! 🎉
-
-This is an **open-source project** - feel free to use, enhance, and extend this project further!
-
-If you have any questions or want to share your work, reach out via GitHub or my portfolio at [https://www.arnobmahmud.com](https://www.arnobmahmud.com).
-
-**Enjoy building and learning!** 🚀
-
-Thank you! 😊
